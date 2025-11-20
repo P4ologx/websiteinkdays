@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>INKDAYS - Agendas Personalizadas</title>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Chicle&family=Luckiest+Guy&display=swap');
 
         * {
             margin: 0;
